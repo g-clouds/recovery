@@ -26,4 +26,7 @@ The recent outage has left many businesses with downed Windows servers on GCP, l
 * **Windows Server Specialization:** Deep understanding of Windows environments on Google Cloud Platform.
 * **Security First:**  We ensure your systems are restored with the highest security standards.
 
-![WhatsApp Business QR code](./images/whatsapp-qrx300.png) [Get Immediate Help](https://gcp.gclouds.co.uk/support.html)
+## Get Immediate Help
+![WhatsApp Business QR code](./images/whatsapp-qrx300.png) 
+
+[Contact Support](https://gcp.gclouds.co.uk/support.html)
