@@ -9,7 +9,7 @@ layout: home
 
 ![Get back online fast from CrowdStrike Outage](./images/microsoft_IT_Outage_2.png)
 
-<a href="https://gcp.gclouds.co.uk/support.html" target="_blank"><img src="./images/get_started_x200.png" alt="Get Started"></a>
+<a href="https://cloud.google.com/find-a-partner/partner/gclouds-it-consultancy-ltd" target="_blank"><img src="./images/get_started_x200.png" alt="Get Started"></a>
 
 ---
 
@@ -19,7 +19,9 @@ The recent outage has left many businesses with downed Windows servers on GCP, l
 
 **We understand the urgency of the situation.**
 
-## How gClouds Gets Your GCP Windows Servers Back on Track
+## How ![gClouds](./images/gclouds x120.png) Gets Your GCP Windows Servers Back on Track
+
+
 
 * **Rapid Incident Response:** 24/7 availability to address your needs immediately.
 * **Operating System Recovery Expertise:**  Secure retrieval of your critical business data.
@@ -29,4 +31,6 @@ The recent outage has left many businesses with downed Windows servers on GCP, l
 ## Get Immediate Help
 ![WhatsApp Business QR code](./images/whatsapp-qrx300.png) 
 
-[Contact Support](https://gcp.gclouds.co.uk/support.html)
+## [Contact](https://cloud.google.com/find-a-partner/partner/gclouds-it-consultancy-ltd)
+
+[![GoogleCloudPartner](./images/google x200.png) ![gClouds](./images/gclouds x150.png)](https://cloud.google.com/find-a-partner/partner/gclouds-it-consultancy-ltd)
